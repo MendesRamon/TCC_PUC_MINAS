@@ -2,10 +2,14 @@
 
 Pasta destinada ao trabalho de conclusão de curso de pós graduação em **Gestão e Análise Estratégica de Dados** da Puc Minas.
 
+Para este projeto foram utilizados as feramentas: *Knime Analytics*, *SQL Server* e *Power BI*
+
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDFlYzgzMTgtMTI2Mi00OTE0LThhYTYtZTc3YmU4OTBhMzg1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&embedImagePlaceholder=true&pageName=ReportSection)
 
-
-
+<br>
+<div align="left">
+<img src="https://github.com/MendesRamon/TCC_PUC_MINAS/assets/141190770/08d0141e-2e95-4c16-887f-9b9ffeae5ce5" width="800px" />
+<div/>
 
 
 ### Conclusão
