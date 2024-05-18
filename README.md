@@ -12,6 +12,9 @@ Para este projeto foram utilizados as feramentas: *Knime Analytics*, *SQL Server
 <div/>
 
 
+[Vídeo Apresentação](https://youtu.be/ZXHgTNob0AM?si=3hDRXE7hucAofXxt)
+
+
 ### Conclusão
 
 Ao analisarmos ao longo dos 5 anos é possível ver que houve um aumento de 5,56% de acidentes de trânsito no estado de São Paulo. Em comparação nos anos de 2019 e 2020 observa-se uma diminuição de ocorrências em 9,37% no qual pode-se atribuir as restrições de circulação devido a pandemia, quando comparado ao ano de 2022 contra 2023 houve um aumento de 8,43%, quando começou a normalizar a circulação. OMS classifica coronavírus como pandemia. Gov.br, 11/03/2020. Disponível em: <https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/03/oms-classifica-coronavirus-como-pandemia>.
