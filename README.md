@@ -14,6 +14,9 @@ Para este projeto foram utilizados as feramentas: *Knime Analytics*, *SQL Server
 
 [Vídeo Apresentação](https://youtu.be/ZXHgTNob0AM?si=3hDRXE7hucAofXxt)
 
+### Objetivo
+
+Este trabalho tem como objetivo expor municípios onde ocorre acidentes de trânsito com maior frequência no estado de São Paulo, em quais sazonalidades e situações climáticas a fim de se criar estratégias que evitem ocorrências de acidentes fatais e não fatais. Para isso, será criada, um dashboard com níveis estratégico, tático e operacional, a fim de ter uma visão geral das ocorrências, análise climática ambiental e temporal.
 
 ### Conclusão
 
@@ -25,5 +28,7 @@ Em feriados, o Carnaval atrai a atenção com um total no ano de 2022 de 807 cas
 Quando olhamos para o tipo de via, as vias municipais ocorreram o maior índice de acidentes, sendo de 78,1% no ano de 2021, enquanto rodovias sendo de 17,7% e não informados de 4,2%. Acredita-se que devido a ter um grande fluxo de pessoas em vias municipais à maior incidência de casos. Porém, com 2,7% ocorrendo vitimas fatais enquanto em rodovias 9,6%, por ter um limite de velocidade maior do que em vias municipais.
 
 A proposta para este projeto é de conscientização para a população e acesso aos dados de acidentes de trânsito no estado de São Paulo de forma resumida e clara. A fim de que seja possível traçar estratégias de prevenção à acidentes, em pontos específicos e em determinada sazonalidade de forma em que os recursos humanos, materiais e financeiros, do estado ou da iniciativa privada, sejam aplicados com maior eficiência e eficácia no objetivo final de prevenir acidentes e salvar vidas. 
+
+***Limitações***
 
 Durante o processo de desenvolvimento do projeto foi observado algumas limitações, como: acesso à informação, embora esteja em um site, a informação tratada no trabalho deve ser de interesse público, ou seja, são dados que devem ser divulgados e ter forma mais acessível a fim de conscientizar a população. Outro ponto no qual é possível se trabalhar são os dados categóricos do tipo idade, sexo, renda no intuito de se traçar um perfil que seja mais recorrente, porém, não está documentado nos arquivos.
