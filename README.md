@@ -16,7 +16,29 @@ Para este projeto foram utilizados as feramentas: *Knime Analytics*, *SQL Server
 
 ### Objetivo
 
-Este trabalho tem como objetivo expor municípios onde ocorre acidentes de trânsito com maior frequência no estado de São Paulo, em quais sazonalidades e situações climáticas a fim de se criar estratégias que evitem ocorrências de acidentes fatais e não fatais. Para isso, será criada, um dashboard com níveis estratégico, tático e operacional, a fim de ter uma visão geral das ocorrências, análise climática ambiental e temporal.
+Este trabalho tem como objetivo expor municípios onde ocorre acidentes de trânsito com maior frequência no estado de São Paulo, em quais sazonalidades e situações climáticas a fim de se criar estratégias que evitem ocorrências de acidentes fatais e não fatais. Para isso, será criada, um dashboard com níveis estratégico, tático e operacional, a fim de ter uma visão geral das ocorrências, análise climática ambiental e temporal. Tudo isso deve ocorrer de forma automatizada.
+
+### Desenvolvimento
+
+Foi utilizado a ferramenta _Knime Analitycs_ para criar o pipeline da extração dos arquivos na página _web_, onde está disponibilizado, e efetuado o input no banco de dados. Segue os seguintes passos:
+
+- Acessa a página web e baixa os arquivos na pasta downloads;
+- Faz normalização dos dados, criando uma tabela para as localidades dos acidentes;
+- Acessa o banco de dados e caso não exista a tabela ele cria, e se existir, ele faz o comando de _drop table_ e cria a tabela.
+
+![knime](https://github.com/MendesRamon/SQL/assets/141190770/e732b9a1-af42-4b3c-b601-34920a301b30)
+
+
+**Modelo físico do banco de dados criado pelo pipeline de dados**
+
+
+![SQL](https://github.com/MendesRamon/SQL/assets/141190770/1203a714-7f4a-4a48-8ae9-9c03ea8748b7)
+
+
+**Modelo de dados _Snow Flake_ no Power BI**
+
+![PowerBI](https://github.com/MendesRamon/SQL/assets/141190770/02601484-c197-401e-a7d9-85664a6a2457)
+
 
 ### Conclusão
 
