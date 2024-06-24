@@ -1,5 +1,12 @@
 # TCC_PUC_MINAS
 
+<div stile="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" >
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Knime-E0E5EC.svg?style=for-the-badge&logo=Knime&logoColor=#FDD800" >
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+</div>
+
+
 Pasta destinada ao trabalho de conclusão de curso de pós graduação em **Gestão e Análise Estratégica de Dados** da Puc Minas.
 
 Para este projeto foram utilizados as feramentas: *Knime Analytics*, *SQL Server* e *Power BI*
